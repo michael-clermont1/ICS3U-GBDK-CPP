@@ -13,7 +13,7 @@
 
 int main() {
     // this function displays a happy face
-    
+
     set_sprite_data(0, 2, TileData);
     set_sprite_tile(0, 0);
     move_sprite(0, 88, 78);
